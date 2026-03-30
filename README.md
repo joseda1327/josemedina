@@ -1,1 +1,1 @@
-# Jose-Medina
+# Jose D. Medina
