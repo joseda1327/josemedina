@@ -1,9 +1,12 @@
 # Jose D. Medina
-# 👋 Hi, I'm Jose David Medina Salgado
+<h1 align="center">👋 Hi, I'm Jose David Medina Salgado</h1>
 
+<p align="center">
 💻 Systems Engineering Student | Backend Developer | Web Development Certified
+</p>
 
----
+<hr>
+
 
 ## 🚀 About Me
 
